@@ -1,4 +1,4 @@
-# Проект автоматизации тестирования учебной API: Google Maps API, разработанной https://rahulshettyacademy.com#
+# Проект автоматизации тестирования учебной API: Google Maps API, разработанной https://rahulshettyacademy.com #
 
 
 ## Цель: ##
